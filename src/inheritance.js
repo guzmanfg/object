@@ -1,4 +1,5 @@
-var core = require('./utils');
+/*global require, module*/
+var core = require('./core');
 module.exports = function(inheritor, base) {
     var child = inheritor.prototype;
     var ParentProxy = function() {};

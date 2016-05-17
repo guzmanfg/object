@@ -1,0 +1,27 @@
+{
+  "name": "corejs",
+  "version": "1.0.0",
+  "description": "Core library for core-sandbox-module pattern in javascript",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guzmanfg/object.git"
+  },
+  "author": "Guzmán Fernández García <guzman.fg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guzmanfg/object/issues"
+  },
+  "homepage": "https://github.com/guzmanfg/object#readme"
+}
